@@ -1,2 +1,3 @@
-# iFollow
-Auto follower for instagram
+# iCommenter
+
+Auto comment for win lottery in Instagram
