@@ -47,20 +47,20 @@ exports.tryLogin = function () {
         client.login()
             .then((response) => {
                 load.stop();
-                if (!response.authenticated) {
+                if (response.authenticated) {
+                    bot.startCount(client, response.userId);
+                } else {
                     header.Create();
                     console.log(
                         chalk.red("One of your credentials is wrong, try again.")
                     );
                     exports.tryLogin();
-                } else {
-                    bot.startCount(client, response.userId);
                 }
             })
             .catch((err) => {
                 load.stop();
                 console.log(
-                    chalk.red("Hounston, we have a problem! Error code: " + err)
+                    chalk.red("Houston, we have a problem! Error code: " + err)
                 );
                 process.exit();
             });
