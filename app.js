@@ -1,9 +1,21 @@
-const header = require("./modules/header");
-const login = require("./modules/login");
+const config = require("./lib/config");
+const figlet = require('figlet');
+const clear = require('clear');
+const chalk = require('chalk');
 
-start();
+//Start
+init();
 
-function start() {
-    header.Create();
-    login.tryLogin();
+function init() {
+    //Create header
+    clear();
+    console.log(
+        chalk.blue(
+            figlet.textSync('iCommenter', {
+                horizontalLayout: 'full'
+            })
+        )
+    );
+    //Start the app
+    config.initialize();
 }
