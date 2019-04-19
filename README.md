@@ -24,7 +24,7 @@ _Post URL_ | www.instagram.com/p/shortcode
 _Username_ | Your instagram username
 _Password_ | Your instagram password
 
-Feel free to look at the code ~~for malicious attempts~~
+Feel free to look at the code ~~for malicious attempts~~.
 
 
-###### Edu Caribé - 2019 - MIT
+_Edu Caribé - 2019 - MIT_
