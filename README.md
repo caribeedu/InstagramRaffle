@@ -25,3 +25,6 @@ _Username_ | Your instagram username
 _Password_ | Your instagram password
 
 Feel free to look at the code ~~for malicious attempts~~
+
+
+###### Edu Caribé - 2019 - MIT
