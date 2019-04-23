@@ -11,8 +11,8 @@ We took their followers, we marked them in 3-in-3 comments, in a specific post, 
 ## How to use
 
 1. Clone this repository
-2. Open the directory prompt and run 'npm install'
-3. Run 'node app.js'
+2. Open the directory prompt and run `npm install`
+3. Run `node app.js`
 4. Don't worry, be happy
 
 ## Params
