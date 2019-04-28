@@ -11,7 +11,7 @@ function init() {
     clear();
     console.log(
         chalk.blue(
-            figlet.textSync('iCommenter', {
+            figlet.textSync('InstaRaffle', {
                 horizontalLayout: 'full'
             })
         )
