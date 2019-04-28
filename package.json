@@ -1,5 +1,5 @@
 {
-  "name": "icommenter",
+  "name": "insta-raffle",
   "version": "0.0.1",
   "description": "Auto comment for win lottery in Instagram",
   "main": "app.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caribeedu/iCommenter.git"
+    "url": "git+https://github.com/caribeedu/InstaRaffle.git"
   },
   "author": "caribeedu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/caribeedu/iCommenter/issues"
+    "url": "https://github.com/caribeedu/InstaRaffle/issues"
   },
-  "homepage": "https://github.com/caribeedu/iCommenter#readme",
+  "homepage": "https://github.com/caribeedu/InstaRaffle#readme",
   "dependencies": {
     "chalk": "^2.4.2",
     "clear": "^0.1.0",
