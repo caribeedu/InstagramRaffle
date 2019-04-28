@@ -1,4 +1,4 @@
-# iCommenter
+# InstaRaffle
 
 Auto comment for win lottery in Instagram
 
