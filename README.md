@@ -2,6 +2,8 @@
 
 Auto comment for win lottery in Instagram
 
+![](https://media.giphy.com/media/fqnZO2OXZKsrWJQKWu/giphy.gif)
+
 **I am not responsible for any possible damage caused to your Instagram account, any action is yours and full responsibility.**
 
 ## How this work's
